@@ -1,0 +1,13 @@
+:root{
+    --bg-branco-principal: #fff;
+    --bg-cinza-secundario: #c0c0c0;
+    --bg-botao-azul: #167BF7;
+    --bg-cor-fundo: #00030c;
+    --bg-efeito-botao: #3b93ff;
+    --bg-fonte-principal: 'Inter';
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
